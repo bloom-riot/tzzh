@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"打开问卷管理弹窗，每个问卷卡片上有'查看'按钮"},{"id":2,"priority":"p0","description":"点击查看后进入问卷详情页，显示标题、描述、问题列表和选项"},{"id":3,"priority":"p1","description":"已回复的问卷详情中显示TA的回复（选项高亮或字卡回复文本）"},{"id":4,"priority":"p1","description":"草稿问卷详情页底部有'继续编辑'按钮，点击进入编辑页"}]}

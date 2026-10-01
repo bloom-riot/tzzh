@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"进入设置页，将问卷回复最短和最长时间都设为最小（1秒），保存后返回聊天页"},{"id":2,"priority":"p0","description":"发送一个单选问卷，等待5秒内TA回复问卷消息"},{"id":3,"priority":"p1","description":"刷新页面后，问卷状态显示为已回复，且能查看TA的回复内容"}]}

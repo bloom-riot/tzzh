@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"问卷管理列表中每个问卷卡片都有\"复制重发\"按钮"},{"id":2,"priority":"p0","description":"点击复制重发后创建新问卷，内容与原问卷一致，自动进入编辑页"},{"id":3,"priority":"p1","description":"复制后的新问卷有独立ID，修改新问卷不影响原问卷"},{"id":4,"priority":"p1","description":"新问卷状态为草稿，可以编辑和发送"}]}

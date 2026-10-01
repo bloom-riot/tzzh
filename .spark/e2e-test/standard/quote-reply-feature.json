@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"长按一条TA消息选择引用，输入框上方显示引用预览条"},{"id":2,"priority":"p0","description":"发送带引用的消息后，消息气泡上方显示引用部分（竖线+发送者+内容预览）"},{"id":3,"priority":"p1","description":"点击引用部分可跳转到被引用消息位置"},{"id":4,"priority":"p1","description":"引用预览条有关闭按钮，点击后引用状态清除"},{"id":5,"priority":"p1","description":"刷新页面后，已发送的带引用消息仍显示引用部分"}]}

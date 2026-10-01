@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"进入设置页面，向下滚动到数据管理区域"},{"id":2,"priority":"p0","description":"点击全量备份卡片，弹出底部ActionSheet，显示导出备份和从文件恢复两个选项"},{"id":3,"priority":"p1","description":"点击聊天记录卡片，弹出底部ActionSheet，显示导出聊天和导入聊天两个选项"},{"id":4,"priority":"p1","description":"点击取消按钮，底部弹窗关闭"}]}

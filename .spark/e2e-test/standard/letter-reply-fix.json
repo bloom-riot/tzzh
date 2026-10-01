@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"打开应用，进入聊天页面，确认页面正常加载无白屏"},{"id":2,"priority":"p0","description":"点击顶部信封图标打开信箱弹窗，确认三个标签页正常显示"},{"id":3,"priority":"p1","description":"点击写信按钮，输入测试内容并寄出，确认信件出现在寄出的信标签中"},{"id":4,"priority":"p1","description":"关闭信箱弹窗后再重新打开，寄出的信仍然存在"}]}

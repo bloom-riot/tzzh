@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"发送一条消息后，TA先显示正在输入中（跳动圆点），然后才显示回复消息"},{"id":2,"priority":"p1","description":"连续发送多条消息，每条回复前都显示正在输入状态"},{"id":3,"priority":"p1","description":"控制台日志中包含[typing-deep]前缀的详细时序日志"}]}

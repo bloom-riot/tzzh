@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"打开聊天首页，页面正常渲染，无白屏，包含输入框和发送按钮"},{"id":2,"priority":"p0","description":"在聊天输入框输入消息并发送，消息出现在聊天列表中，随后TA的回复也出现"},{"id":3,"priority":"p1","description":"点击右上角设置图标，跳转到字卡管理页面 /cards"},{"id":4,"priority":"p1","description":"字卡管理页显示字卡列表，至少有10张预置字卡"},{"id":5,"priority":"p1","description":"在字卡管理页添加一张新字卡，列表中出现新增的字卡"}]}

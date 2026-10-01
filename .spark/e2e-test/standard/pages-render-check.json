@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"打开聊天首页(/),页面能正常渲染,非白屏,顶部栏和输入框可见"},{"id":2,"priority":"p1","description":"打开设置页(/settings),页面能正常渲染,能看到设置内容"},{"id":3,"priority":"p1","description":"打开字卡管理页(/cards),页面能正常渲染,能看到字卡管理内容"}]}

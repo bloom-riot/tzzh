@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"发送一条消息后TA只回复一条，不重复不丢失"},{"id":2,"priority":"p0","description":"连续快速发送两条消息，TA各回复一条且顺序正确"},{"id":3,"priority":"p1","description":"单击气泡不弹出操作菜单和引用栏"},{"id":4,"priority":"p1","description":"长按气泡500ms弹出操作菜单含引用/删除/撤回"},{"id":5,"priority":"p2","description":"刷新页面后pending中的TA回复正常恢复执行"}]}

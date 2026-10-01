@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"打开聊天首页，检查页面是否白屏或有渲染错误"},{"id":2,"priority":"p1","description":"打开设置页，检查页面是否正常渲染"},{"id":3,"priority":"p1","description":"打开字卡管理页，检查页面是否正常渲染"}]}

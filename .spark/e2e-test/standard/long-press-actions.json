@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"长按消息气泡弹出操作菜单，点击引用可进入引用回复状态"},{"id":2,"priority":"p1","description":"点击删除可删除消息，刷新后消息不再出现"},{"id":3,"priority":"p1","description":"点击撤回可将消息替换为撤回提示，刷新后仍保留"}]}

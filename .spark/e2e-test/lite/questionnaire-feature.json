@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"打开首页，页面正常加载无白屏，顶部栏右侧可见问卷图标（剪贴板样式）"},{"id":2,"priority":"p1","description":"点击问卷图标，弹出问卷管理弹窗，弹窗内显示问卷列表和创建按钮"},{"id":3,"priority":"p1","description":"打开设置页 /settings，节奏区域包含'问卷回复时间'配置项"}]}

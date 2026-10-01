@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"进入设置页面，向下滚动找到数据管理模块，确认三个子模块存在"},{"id":2,"priority":"p0","description":"点击全量备份卡片，弹出底部ActionSheet弹窗，包含导出备份和从文件恢复两个选项及取消按钮"},{"id":3,"priority":"p1","description":"点击取消按钮，ActionSheet弹窗关闭"},{"id":4,"priority":"p1","description":"点击聊天记录卡片，弹出底部ActionSheet弹窗，包含导出聊天和导入聊天两个选项"}]}
