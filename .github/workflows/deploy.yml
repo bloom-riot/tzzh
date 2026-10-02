@@ -35,10 +35,10 @@ jobs:
       - name: Build
         env:
           CLIENT_BASE_PATH: /tzzh/
-        run: chmod +x scripts/build.sh && npm run build
+        run: npm run build:client
 
       - name: Prepare SPA fallback
-        working-directory: ./dist/dist/client
+        working-directory: ./dist/client
         run: cp index.html 404.html
 
       - name: Configure Pages
@@ -47,7 +47,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist/dist/client
+          path: ./dist/client
 
       - name: Deploy
         id: deployment
