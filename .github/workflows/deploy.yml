@@ -35,7 +35,7 @@ jobs:
       - name: Build
         env:
           CLIENT_BASE_PATH: /tzzh/
-        run: npm run build
+        run: chmod +x scripts/build.sh && npm run build
 
       - name: Prepare SPA fallback
         working-directory: ./dist/dist/client
