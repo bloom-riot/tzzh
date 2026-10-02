@@ -35,11 +35,17 @@ jobs:
       - name: Build
         env:
           CLIENT_BASE_PATH: /tzzh/
-        run: npm run build:client
+        run: npm run build:client -- --base=/tzzh/
 
       - name: Prepare SPA fallback
         working-directory: ./dist/client
-        run: cp index.html 404.html
+        run: |
+          sed -i 's/{{appName}}/天作之合/g' index.html
+          sed -i 's/{{appDescription}}/天作之合/g' index.html
+          sed -i 's/{{appAvatar}}//g' index.html
+          sed -i 's/{{currentUrl}}//g' index.html
+          sed -i 's/{{csrfToken}}//g' index.html
+          cp index.html 404.html
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
